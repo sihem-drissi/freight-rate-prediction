@@ -45,7 +45,6 @@ src/freight_rate/
     validation.py    metrics, baselines, rolling-origin CV, unseen-city stress test
     submission.py    builds the two deliverable files
 scripts/             run_validation.py, make_predictions.py
-reports/             build_report.py -> report.pdf (validation approach + December chart)
 outputs/             validation_predictions.csv, december chart + predictions, CV results
 score.py             provided scorer (unchanged)
 ```
