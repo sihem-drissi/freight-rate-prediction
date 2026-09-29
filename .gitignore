@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+# raw challenge data is not redistributed; see data/README.md
+data/*.csv

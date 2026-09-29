@@ -1,0 +1,7 @@
+lightgbm>=4.3,<5
+scikit-learn>=1.4,<2
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8,<4
+jupyter
+pillow
