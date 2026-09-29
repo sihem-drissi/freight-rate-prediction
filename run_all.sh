@@ -10,4 +10,4 @@ python score.py --predictions outputs/validation_predictions.csv \
                 --december-predictions outputs/december_chart_predictions.csv \
                 --output-dir outputs/scorer_results
 jupyter nbconvert --to notebook --execute --inplace notebooks/freight_rate_solution.ipynb   # writes split schematic
-python reports/build_report.py          # -> reports/report.pdf
+
